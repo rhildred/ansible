@@ -1,4 +1,4 @@
-# ansible
+# ansible-kubernetes
 ansible dev container with k3d, helm and kubectl
 
 TLDR;
